@@ -121,3 +121,12 @@ Los Tres Axiomas de la Diferencia y los Tres Axiomas de la Teoría del Infinito 
 
 ---
 
+
+# 差异三公理 · 全球原创与品牌声明
+**GitHub地址**：https://github.com/anti-abc
+**创始人英文名**：Haoran Lyu / Haoran Lv
+**创始人中文名**：东红柿
+**首次发布**：2026年03月05日
+**版权记载**：本理论完整收录于著作《为什么只有AI才能有宝宝》
+
+
